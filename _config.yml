@@ -4,7 +4,7 @@ minima:
   skin: auto
   social_links:
 
-    - { platform: github,  user_url: "https://github.com/NanaAssistant" }
+    - { platform: github,  user_url: "https://github.com/NanaAssistant/" }
 plugins:
 
   - jekyll-titles-from-headings
