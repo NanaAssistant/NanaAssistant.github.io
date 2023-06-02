@@ -1,3 +1,5 @@
+This is the tutorial and information cente r for the Nana assistant.
+
 ## What exactly is Nana?
 Nana is a smart assistant based on ChatGPT for interacting with people who never used an assistant before.
 It is able to handle anything and is creating a social profile of the person it's chatting with.
