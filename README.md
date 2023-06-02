@@ -1,4 +1,3 @@
-# NanaAssistant
 
 This is the tutorial and information center for the Nana assistant.
 
