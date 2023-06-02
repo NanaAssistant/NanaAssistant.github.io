@@ -10,7 +10,7 @@ We're happy to be able to do that.
 Nana is not a single program to use, but more a api to connect apps to.
 We provide a few to use and we're happy to share our experience.
 
-> ***Warning: At the moment we only allow a few people to access our application! In the future, if all tests are successful, we maybe allow other users too.***
+> ***Warning:*** At the moment we only allow a few people to access our application! In the future, if all tests are successful, we maybe allow other users too.
 
 All official applications are listed on the profile of this organization. [You can view it here](https://github.com/NanaAssistant)
 
