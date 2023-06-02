@@ -1,6 +1,5 @@
 theme: minima
 title: NanaAssistant
-description: Nana is a smart personal assistant to talk with.
 minima:
   skin: auto
   social_links
